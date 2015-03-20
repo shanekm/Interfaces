@@ -1,0 +1,6 @@
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\CSVRepository\bin\Debug\CSVRepository.dll
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\CSVRepository\bin\Debug\CSVRepository.pdb
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\CSVRepository\bin\Debug\PersonRepository.dll
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\CSVRepository\bin\Debug\PersonRepository.pdb
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\CSVRepository\obj\Debug\CSVRepository.dll
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\CSVRepository\obj\Debug\CSVRepository.pdb

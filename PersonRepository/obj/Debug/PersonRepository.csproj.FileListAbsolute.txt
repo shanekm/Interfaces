@@ -1,0 +1,5 @@
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\Interfaces\PersonRepository\bin\Debug\PersonRepository.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\Interfaces\PersonRepository\bin\Debug\PersonRepository.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\Interfaces\PersonRepository\obj\Debug\PersonRepository.csprojResolveAssemblyReference.cache
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\Interfaces\PersonRepository\obj\Debug\PersonRepository.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\Interfaces\PersonRepository\obj\Debug\PersonRepository.pdb

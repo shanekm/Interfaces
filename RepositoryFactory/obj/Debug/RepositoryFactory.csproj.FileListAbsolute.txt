@@ -1,0 +1,15 @@
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\RepositoryFactory\bin\Debug\RepositoryFactory.dll
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\RepositoryFactory\bin\Debug\RepositoryFactory.pdb
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\RepositoryFactory\bin\Debug\CSVRepository.dll
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\RepositoryFactory\bin\Debug\PersonRepository.dll
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\RepositoryFactory\bin\Debug\PersonRepository.Service.dll
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\RepositoryFactory\bin\Debug\SQLRepository.dll
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\RepositoryFactory\bin\Debug\Services.dll
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\RepositoryFactory\bin\Debug\CSVRepository.pdb
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\RepositoryFactory\bin\Debug\PersonRepository.Service.pdb
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\RepositoryFactory\bin\Debug\PersonRepository.pdb
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\RepositoryFactory\bin\Debug\SQLRepository.pdb
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\RepositoryFactory\bin\Debug\Services.pdb
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\RepositoryFactory\obj\Debug\RepositoryFactory.csprojResolveAssemblyReference.cache
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\RepositoryFactory\obj\Debug\RepositoryFactory.dll
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\RepositoryFactory\obj\Debug\RepositoryFactory.pdb
