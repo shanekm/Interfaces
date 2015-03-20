@@ -22,7 +22,7 @@ GARBAGE COLLECTOR
 	- GC (groups objects into 3 different generations (gen0, gen1, gen2) => short and long lived: a1, a2, a3 => a1, a2 move to gen1 and so on
 	- Heap compression - removing gaps between memory objects
 2. When does the GC collect?
-	- when new() - it checks Gen0 (least expensive) - threshold check - executed in the background in a seperate thread -> GC collects
+	- when it decides to (low memory) OR when new() - it checks Gen0 (least expensive) - threshold check - executed in the background in a seperate thread -> GC collects
 	- balances between efficiency for app, and making memory available (collecting memory)
 
 .dotMemory - JetBrains for viewing memory allocation
@@ -35,7 +35,8 @@ BEST PRACTICES
 2. If you use IDisposable objects as instance fields, implement IDisposable (call Dispose() on the resource)
 	- DatabaseState uses SqlConnection which in turn implements IDisposable. Therefore DatabaseState needs to implement IDisposable as well
 3. Allow Dispose() to be called multiple times and don't throw exception (checking bool - because you don't know if object has already been disposed
-
+4. Implement IDisposable to support disposing resources in a class hierarchy
+5. If you use unmanaged resources, declare a finilizer (ONLY when using unmanaged resources) ~Finalizer{ calls Dispose(false) } => not disposing
 
 SUMMARY
 1. Why use IDisposable - provides a mechanism for releasing unmanaged resources
@@ -50,5 +51,8 @@ SUMMARY
 7. DatabaseStateIDisposableImplementation - Dispose() and Finalize - Dispose is only there for the User to use/programmer to explicity call it
 	- if user does not call Dispose() it will never be cleaned/collected. Therefore use Finalizer in case user of the class doesn't call Dispose()
 	- Finalizer ~ClassWithFinalizer - when GC is cleaning a dead object, and sees Finalizer defined and it has NOT been told NOT to finilize it DOES run Finalizer
-	- Finalizer - expensive. avoid it. Run Dispose() instead
+	- Finalizer - expensive. avoid it. Run Dispose() instead, but if Dispose() call forgotten finalizer will be called
 8. UnmanagedDatabaseState - implementing parent class that implements IDisposable(), calling Dispose() on base class after child class Dispose() has been called
+	- protected virtual void Dispose() - child classes are responsible for it's own disposal
+9. Finalizer - ~finalizer() - you can ONLY clean up UNmanaged resources because you don't know if GC has cleaned or not cleaned managed resources
+	- therefore ~finalizer should alwasy/only clean UNmanaged resources

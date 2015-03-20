@@ -17,6 +17,7 @@
             this.Dispose(true); 
 
             // let GC know that this instance has cleaned up its own resources and doesn't need to be finalized
+            // ~Finilizer - no Unmanaged resources in this class
             GC.SuppressFinalize(this); 
         }
 
