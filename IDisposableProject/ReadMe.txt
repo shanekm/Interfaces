@@ -30,6 +30,11 @@ GARBAGE COLLECTOR
 IMPORTANT
 Is a resources/class you're using implements IDisposible you need to use it correctly and/or also implement IDisposable
 
+WHAT HAPPENDS WHEN YOU DON'T DISPOSE?
+- file locks and event handlers
+- starving sql connection pool
+- object leaks
+
 BEST PRACTICES
 1. Dispose of IDisposable objects as soon as you can (using{} statement)
 2. If you use IDisposable objects as instance fields, implement IDisposable (call Dispose() on the resource)
@@ -37,6 +42,8 @@ BEST PRACTICES
 3. Allow Dispose() to be called multiple times and don't throw exception (checking bool - because you don't know if object has already been disposed
 4. Implement IDisposable to support disposing resources in a class hierarchy
 5. If you use unmanaged resources, declare a finilizer (ONLY when using unmanaged resources) ~Finalizer{ calls Dispose(false) } => not disposing
+6. Enable Microsoft static analysis "Enable code analysis on build" with CA2000 enabled - Microsoft Reliability
+7. If implement an Interface and use IDisposable fields, extend your interface from IDisposable (Repository : IRepository) => IRepository : IDisposable NOT Repository : IDisposable
 
 SUMMARY
 1. Why use IDisposable - provides a mechanism for releasing unmanaged resources
@@ -56,3 +63,9 @@ SUMMARY
 	- protected virtual void Dispose() - child classes are responsible for it's own disposal
 9. Finalizer - ~finalizer() - you can ONLY clean up UNmanaged resources because you don't know if GC has cleaned or not cleaned managed resources
 	- therefore ~finalizer should alwasy/only clean UNmanaged resources
+10. Fixing WordCounter - implementing microsoft warning on build - static code analasis including CA2000 to rule set
+	- ApiClient - implementing IDisposable (example of WCF usage)
+	- FileArchiver - implementing IDisposabe (when copying files) - using {}
+	- FolderWatcher - is using FileSystemWatcher, implemented IDisposable by creating private fileSystemWatcher and implementing IDisposable pattern
+11. How to know if the class/object implements IDisposable
+	- use class hierarchy, trial and error -> using {} block (if object doesn't use IDisposable you will get compiler error)

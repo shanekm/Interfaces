@@ -29,7 +29,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonRepository.Fake", "Pe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleViewer.Test", "PeopleViewer.Test\PeopleViewer.Test.csproj", "{30187A91-5A23-4830-9F85-82EDE41FA347}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDisposableProject", "IDisposableProject\IDisposableProject.csproj", "{CFFB5A87-3CB3-4602-82B2-24E06FEDC2FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDisposable", "IDisposableProject\IDisposable.csproj", "{CFFB5A87-3CB3-4602-82B2-24E06FEDC2FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

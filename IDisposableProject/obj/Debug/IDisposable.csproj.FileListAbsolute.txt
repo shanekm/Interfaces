@@ -1,0 +1,5 @@
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\IDisposableProject\obj\Debug\IDisposableProject.exe
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\IDisposableProject\bin\Debug\IDisposableProject.exe.config
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\IDisposableProject\bin\Debug\IDisposableProject.exe
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\IDisposableProject\bin\Debug\IDisposableProject.pdb
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\IDisposableProject\obj\Debug\IDisposableProject.pdb

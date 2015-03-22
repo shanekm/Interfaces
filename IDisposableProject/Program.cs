@@ -7,6 +7,10 @@
 
     class Program
     {
+        // Since we changed FolderWatcher to implement IDisposable
+        // we are adding a static archiver here where we can call Dispose()
+        private static FolderWatcher archiver;
+
         static void Main(string[] args)
         {
             // Incorrect usage - Dispose() will never be called unless you call it explicitely
@@ -83,9 +87,22 @@
 
         public static void Start()
         {
-            var archiver = new FolderWatcher();
+            archiver = new FolderWatcher();
             archiver.Start(@"c:\temp", "*.txt", ProcessFile);
             Console.WriteLine("Listening to c:\\temp");
+        }
+
+        // FolderWatcher now implements IDisposable
+        // this is because it uses FileSystemWatcher
+        // app has its own private variable for FolderWatcher()
+        // that may be started and stopped
+        public static void Stop()
+        {
+            if (archiver != null)
+            {
+                archiver.Dispose();
+                archiver = null;
+            }
         }
 
         private static void ProcessFile(string path)
