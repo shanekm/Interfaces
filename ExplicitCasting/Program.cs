@@ -74,8 +74,6 @@
         }
     }
 
-
-
     public class CatalogVoid : ISavable, IVoidSavable
     {
         // Since these two interfaces' signatures are different
