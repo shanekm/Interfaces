@@ -132,7 +132,6 @@
             ExtendedCatalog extendedCatalog = new ExtendedCatalog();
             extendedCatalog.Save("Extended save!");
             extendedCatalog.Save(); // ISavable save called
-
         }
     }
 }

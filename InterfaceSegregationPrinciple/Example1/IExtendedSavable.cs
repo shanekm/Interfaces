@@ -3,6 +3,6 @@
     // Extending interfaces
     public interface IExtendedSavable : ISavable
     {
-        string Save(string saveName);
+        void Save(string saveName);
     }
 }

@@ -4,7 +4,7 @@ namespace InterfaceSegregationPrinciple.Example1
 {
     internal class SomeClass : ISavable
     {
-        public string Save()
+        public void Save()
         {
             Console.WriteLine("ISavable");
         }

@@ -4,12 +4,12 @@ namespace InterfaceSegregationPrinciple.Example1
 {
     internal class AnotherClass : IExtendedSavable
     {
-        public string Save(string saveName)
+        public void Save(string saveName)
         {
             Console.WriteLine("IExtendedSavable");
         }
 
-        public string Save()
+        public void Save()
         {
             Console.WriteLine("ISavable");
         }
