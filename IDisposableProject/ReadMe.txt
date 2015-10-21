@@ -17,7 +17,7 @@ Unmanaged Resources - external resources
 
 GARBAGE COLLECTOR
 1. var obj = new MyClass() 
-	- new keyword = (STACK) {}pointer => (HEAP) .NET allocates memory on the, no other app/program may use that memory location
+	- new keyword = (STACK) {}pointer => (HEAP) .NET allocates memory on the heap, no other app/program may use that memory location
 	- app end OR CRASHES => memory is cleared. Another way memory is cleared is via GC run (is object still recheable?) => pointer (STACK) / mem (HEAP) are cleared
 	- GC (groups objects into 3 different generations (gen0, gen1, gen2) => short and long lived: a1, a2, a3 => a1, a2 move to gen1 and so on
 	- Heap compression - removing gaps between memory objects
@@ -28,7 +28,7 @@ GARBAGE COLLECTOR
 .dotMemory - JetBrains for viewing memory allocation
 
 IMPORTANT
-Is a resources/class you're using implements IDisposible you need to use it correctly and/or also implement IDisposable
+Use IDispossable when it's a resource. Or a class you're using implements IDisposible (like reader etc) you need to use it correctly and/or also implement IDisposable
 
 WHAT HAPPENDS WHEN YOU DON'T DISPOSE?
 - file locks and event handlers

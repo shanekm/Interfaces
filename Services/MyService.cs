@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
+using PersonRepository.Interfaces;
 
 namespace Services
 {
-    using PersonRepository.Interfaces;
-
+   
     public class MyService
     {
         public List<Person> GetPersons()

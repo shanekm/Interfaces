@@ -1,20 +1,19 @@
 ﻿namespace Start
 {
-    using System;
-    using PersonRepository.Fake;
     using PersonRepository.Interfaces;
     using Polygons.Library;
     using RepositoryFactory;
-
-    using ViewModel;
 
     class Program
     {
         static void Main(string[] args)
         {
-            var triangle = new Triangle(5);
+            Triangle triangle = new Triangle(5);
+            int numOfSides = triangle.NumberOfSides; // I have access to abstract properties (if public)
+            // no access to private properties in abstract/base class
+            triangle.MayOverwrite(); // I can still call abstract method even though not overwritten in child
 
-            var octagon = new Octagon(10);
+            Octagon octagon = new Octagon(10);
 
             //IPersonRepository repo = new WebServiceRepository();
             //var people = repo.GetPeople();

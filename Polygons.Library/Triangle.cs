@@ -13,5 +13,7 @@ namespace Polygons.Library
             // Formula for calculating area of triangle
             return SideLength * SideLength * Math.Sqrt(3) / 4;
         }
+
+        // I don't need to overwrite OverwriteMethod() from base since it's virtual
     }
 }

@@ -131,6 +131,7 @@
             // Now I have two methods available (ISave.Save() and IExtendedSavable.Save())
             ExtendedCatalog extendedCatalog = new ExtendedCatalog();
             extendedCatalog.Save("Extended save!");
+            extendedCatalog.Save(); // ISavable save called
 
         }
     }

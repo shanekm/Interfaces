@@ -4,4 +4,3 @@ C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\IDisposa
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\IDisposableProject\bin\Debug\IDisposableProject.pdb
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\IDisposableProject\obj\Debug\IDisposableProject.pdb
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\PersonRepository.Service\bin\Debug\IDisposableProject.exe.config
-C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\IDisposableProject\obj\Debug\IDisposable.csprojResolveAssemblyReference.cache

@@ -1,8 +1,7 @@
 ﻿// How to choose (Abstract Class vs. Interface)
 // Abstract class contains implementation -> children can use that implementation
 // Interfaces -> no implementation
-// Abstract class => when you need implementation use Abstract Class, as it contains implementation
-// and if you don't need multiple inheritantce
+// Abstract class => when you need implementation use Abstract Class, as it contains implementation and if you don't need multiple inheritantce
 
 for our example: Repository we have different implementation of GetPeople() => CSV reads from file, SQL from DB, etc
 it is not correct to use Abstract class, but it's correct to use Interface
@@ -55,7 +54,12 @@ public class Catalog : ISavable
 }
 
 // VERY IMPORTANT
-// Interface Segregation Principle
+Interface Segregation Principle - no client should be forced to depend methods it doesn't use
+	- If one class implements an interface (ISavable) and that interface has only one Save() method - because clientA doesn't need anything else
+	- clientB comes along and needs Save(string) method that ISavable doesn't define it, IF new method is defined in ISavable(), then clientA WILL need to create it
+	- However, if I ONLY extend IExtSavable : ISavable => meaning IExtSavable has all signatures of ISavable + new ones I need
+	- then clienB : IExtSavalbe => has to implement both signatures and clientA DOES NOT. Nothing is broken :)
+
 public class List<T> : IList<T>, ICollection<T>, IReadOnlyList<T>, IEnumerable<T> etc
 - clients should not be forced to depend upon methods that they do not use.
 IEnumerable<T> => GetEnumerator

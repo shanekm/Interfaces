@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Start", "Start\Start.csproj", "{AE018928-5F9B-416B-94BB-E8A3DBE2E972}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "START", "Start\START.csproj", "{AE018928-5F9B-416B-94BB-E8A3DBE2E972}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polygons.Library", "Polygons.Library\Polygons.Library.csproj", "{1419BF8C-377F-457C-B49D-FCE75911AA8B}"
 EndProject
@@ -30,6 +30,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleViewer.Test", "PeopleViewer.Test\PeopleViewer.Test.csproj", "{30187A91-5A23-4830-9F85-82EDE41FA347}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDisposable", "IDisposableProject\IDisposable.csproj", "{CFFB5A87-3CB3-4602-82B2-24E06FEDC2FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj", "{282A3C5C-F127-4ED6-B359-F67BBF7B0089}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -89,6 +91,10 @@ Global
 		{CFFB5A87-3CB3-4602-82B2-24E06FEDC2FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFFB5A87-3CB3-4602-82B2-24E06FEDC2FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFFB5A87-3CB3-4602-82B2-24E06FEDC2FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{282A3C5C-F127-4ED6-B359-F67BBF7B0089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282A3C5C-F127-4ED6-B359-F67BBF7B0089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282A3C5C-F127-4ED6-B359-F67BBF7B0089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282A3C5C-F127-4ED6-B359-F67BBF7B0089}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

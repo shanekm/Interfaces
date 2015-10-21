@@ -1,12 +1,10 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using ViewModel;
+using System.Linq;
+using PersonRepository.Fake;
 
 namespace PeopleViewer.Test
 {
-    using System.Linq;
-
-    using PersonRepository.Fake;
-
     // Only reference to FakeRepository needed
 
     [TestClass]

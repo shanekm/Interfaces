@@ -2,8 +2,7 @@
 {
     public interface IRegularPolygon
     {
-        // These properties need to exist 
-        // in concrete types
+        // These properties need to exist in concrete types
         int NumberOfSides { get; set; }
 
         int SideLenght { get; set; }

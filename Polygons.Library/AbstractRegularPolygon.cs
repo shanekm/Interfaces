@@ -20,5 +20,11 @@
         // Abstract method -> must be implemented
         // abstract member means we have to mark class as abstract as well
         public abstract double GetArea();
+
+        // May be overwritten
+        public virtual int MayOverwrite()
+        {
+            return 2;
+        }
     }
 }
