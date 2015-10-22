@@ -32,7 +32,7 @@ namespace ImpromptuInterface
             // Extension methods
             // able to use new Fly extension method
             Duck duck = new Duck();
-            duck.Fly(1);
+            duck.Fly(1); // Extended method
         }
 
         private static void DoDuckLikeThings(dynamic ducklish)
