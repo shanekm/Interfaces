@@ -118,3 +118,7 @@ public interface INamedSavable : ISavable
 // UNIT TESTING
 Mocking -> allows us to create "placeholder" objects (instead of making a new repo FakeRepository), in memory
 
+IEnumerable
+	- .Net implementation of iterator pattern
+	- yield keyword - used while returning a value from a function, saves a state of a function while returning a value
+	- Implementing IEnumerable interface, will need to implement IEnumerator which returns IEnumerator implementation
