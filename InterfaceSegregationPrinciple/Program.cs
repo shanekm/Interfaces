@@ -60,7 +60,6 @@ namespace InterfaceSegregationPrinciple
             {
                 Console.WriteLine("s1 is IExtendedSavable");
             }
-            
         }
     }
 }

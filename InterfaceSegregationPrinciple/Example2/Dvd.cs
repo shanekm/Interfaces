@@ -1,6 +1,6 @@
 ﻿namespace InterfaceSegregationPrinciple.Example2
 {
-    public class DVD : IProduct
+    public class DVD : IMovie
     {
         public decimal Price { get; set; }
         public double Weight { get; set; }
