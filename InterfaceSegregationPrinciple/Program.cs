@@ -1,6 +1,7 @@
 ﻿using System;
 
 using InterfaceSegregationPrinciple.Example1;
+using InterfaceSegregationPrinciple.Example3;
 
 namespace InterfaceSegregationPrinciple
 {
@@ -33,6 +34,7 @@ namespace InterfaceSegregationPrinciple
             AnotherClass anotherClass = new AnotherClass();
             anotherClass.Save("Extended save!");
             anotherClass.Save(); // ISavable save called
+            SendInInterface(anotherClass);
 
             // I can define anotherClass because it DOES implement ISavable
             ISavable a1 = new AnotherClass();
@@ -50,6 +52,7 @@ namespace InterfaceSegregationPrinciple
             }
 
             ISavable s1 = new SomeClass();
+            SendInInterface(s1);
             if (s1 is ISavable)
             {
                 Console.WriteLine("s1 is ISavable");
@@ -59,6 +62,26 @@ namespace InterfaceSegregationPrinciple
             if (s1 is IExtendedSavable)
             {
                 Console.WriteLine("s1 is IExtendedSavable");
+            }
+
+            // Example 3
+            IUserConfigReader reader = new UserConfigSettingsReader();
+            reader.GetTheme(); // has only access to methods it needs
+
+            UserConfigSettingsReaderWriter config = new UserConfigSettingsReaderWriter();
+            config.GetTheme();
+            config.SetTheme("test");
+
+            UserConfigSettingsReaderWriterBoth both = new UserConfigSettingsReaderWriterBoth();
+            config.GetTheme();
+            config.SetTheme("test");
+        }
+
+        public static void SendInInterface(ISavable savable)
+        {
+            if (savable is ISavable)
+            {
+                // do stuff
             }
         }
     }

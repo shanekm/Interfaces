@@ -49,6 +49,8 @@
     <Compile Include="Example2\IMovie.cs" />
     <Compile Include="Example2\IProduct.cs" />
     <Compile Include="Example2\TShirt.cs" />
+    <Compile Include="Example3\IUserConfigSettings.cs" />
+    <Compile Include="Example3\UserConfigSettings.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
