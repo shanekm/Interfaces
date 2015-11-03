@@ -64,13 +64,19 @@ namespace InterfaceSegregationPrinciple
                 Console.WriteLine("s1 is IExtendedSavable");
             }
 
-            // Example 3
+            // Example 3 - Best Solution
+            // Since UserConfigSettingsReaderWriter impelments both is I only needed a reader I could define it like so. Controller Injection!
             IUserConfigReader reader = new UserConfigSettingsReader();
             reader.GetTheme(); // has only access to methods it needs
+
+            // OR Even Better use common implementation but still restrics access
+            IUserConfigReader readerWriter = new UserConfigSettingsReaderWriter();
+            readerWriter.GetTheme(); // has only access to methods it needs
 
             UserConfigSettingsReaderWriter config = new UserConfigSettingsReaderWriter();
             config.GetTheme();
             config.SetTheme("test");
+
 
             UserConfigSettingsReaderWriterBoth both = new UserConfigSettingsReaderWriterBoth();
             config.GetTheme();

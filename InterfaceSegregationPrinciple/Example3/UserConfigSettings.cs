@@ -29,7 +29,8 @@
         }
     }
 
-    // TAKE 2
+    // TAKE 2 - GOOD (not creating a common I interface that implements both - this creates interface soup)
+    // Better to have Concrete type implement both
     // This is the same as having IUserConfigSettingsReaderWriterBoth
     public class UserConfigSettingsReaderWriter : IUserConfigReader, IUserConfigWriter
     {
@@ -61,6 +62,7 @@
        
     }
 
+    // Wrong - Creates interface soup. there is no benefit
     // Same as above
     public class UserConfigSettingsReaderWriterBoth : IUserConfigSettingsReaderWriterBoth
     {
