@@ -1,0 +1,15 @@
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\ImpromptuInterface\bin\Debug\ImpromptuInterface.exe.config
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\ImpromptuInterface\bin\Debug\ImpromptuInterface.exe
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\ImpromptuInterface\bin\Debug\ImpromptuInterface.pdb
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\ImpromptuInterface\bin\Debug\ImpromptuInterface.dll
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\ImpromptuInterface\bin\Debug\ImpromptuInterface.xml
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\ImpromptuInterface\obj\Debug\ImpromptuInterface.exe
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\ImpromptuInterface\obj\Debug\ImpromptuInterface.pdb
+E:\Dot.Net\Interfaces\ImpromptuInterface\bin\Debug\ImpromptuInterface.exe.config
+E:\Dot.Net\Interfaces\ImpromptuInterface\obj\Debug\ImpromptuInterface.exe
+E:\Dot.Net\Interfaces\ImpromptuInterface\obj\Debug\ImpromptuInterface.pdb
+E:\Dot.Net\Interfaces\ImpromptuInterface\bin\Debug\ImpromptuInterface.exe
+E:\Dot.Net\Interfaces\ImpromptuInterface\bin\Debug\ImpromptuInterface.pdb
+E:\Dot.Net\Interfaces\ImpromptuInterface\bin\Debug\ImpromptuInterface.dll
+E:\Dot.Net\Interfaces\ImpromptuInterface\bin\Debug\ImpromptuInterface.xml
+E:\Dot.Net\Interfaces\ImpromptuInterface\obj\Debug\ExtendingInterface.csprojResolveAssemblyReference.cache

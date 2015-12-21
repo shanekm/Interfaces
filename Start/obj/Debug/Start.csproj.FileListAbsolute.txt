@@ -22,3 +22,27 @@ C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\Start\ob
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\Start\obj\Debug\Start.pdb
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\Start\bin\Debug\PersonRepository.Fake.dll
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\Start\bin\Debug\PersonRepository.Fake.pdb
+E:\Dot.Net\Interfaces\Start\bin\Debug\Start.exe.config
+E:\Dot.Net\Interfaces\Start\bin\Debug\Start.exe
+E:\Dot.Net\Interfaces\Start\bin\Debug\Start.pdb
+E:\Dot.Net\Interfaces\Start\bin\Debug\CSVRepository.dll
+E:\Dot.Net\Interfaces\Start\bin\Debug\PersonRepository.dll
+E:\Dot.Net\Interfaces\Start\bin\Debug\PersonRepository.Fake.dll
+E:\Dot.Net\Interfaces\Start\bin\Debug\PersonRepository.Service.dll
+E:\Dot.Net\Interfaces\Start\bin\Debug\Polygons.Library.dll
+E:\Dot.Net\Interfaces\Start\bin\Debug\RepositoryFactory.dll
+E:\Dot.Net\Interfaces\Start\bin\Debug\SQLRepository.dll
+E:\Dot.Net\Interfaces\Start\bin\Debug\ViewModel.dll
+E:\Dot.Net\Interfaces\Start\bin\Debug\Services.dll
+E:\Dot.Net\Interfaces\Start\bin\Debug\CSVRepository.pdb
+E:\Dot.Net\Interfaces\Start\bin\Debug\PersonRepository.Fake.pdb
+E:\Dot.Net\Interfaces\Start\bin\Debug\PersonRepository.Service.pdb
+E:\Dot.Net\Interfaces\Start\bin\Debug\PersonRepository.pdb
+E:\Dot.Net\Interfaces\Start\bin\Debug\Polygons.Library.pdb
+E:\Dot.Net\Interfaces\Start\bin\Debug\RepositoryFactory.pdb
+E:\Dot.Net\Interfaces\Start\bin\Debug\SQLRepository.pdb
+E:\Dot.Net\Interfaces\Start\bin\Debug\ViewModel.pdb
+E:\Dot.Net\Interfaces\Start\bin\Debug\Services.pdb
+E:\Dot.Net\Interfaces\Start\obj\Debug\START.csprojResolveAssemblyReference.cache
+E:\Dot.Net\Interfaces\Start\obj\Debug\Start.exe
+E:\Dot.Net\Interfaces\Start\obj\Debug\Start.pdb

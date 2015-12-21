@@ -15,3 +15,20 @@ C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\ViewMode
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\ViewModel\obj\Debug\ViewModel.dll
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\ViewModel\obj\Debug\ViewModel.pdb
+E:\Dot.Net\Interfaces\ViewModel\bin\Debug\ViewModel.dll
+E:\Dot.Net\Interfaces\ViewModel\bin\Debug\ViewModel.pdb
+E:\Dot.Net\Interfaces\ViewModel\bin\Debug\PersonRepository.dll
+E:\Dot.Net\Interfaces\ViewModel\bin\Debug\RepositoryFactory.dll
+E:\Dot.Net\Interfaces\ViewModel\bin\Debug\PersonRepository.Service.dll
+E:\Dot.Net\Interfaces\ViewModel\bin\Debug\CSVRepository.dll
+E:\Dot.Net\Interfaces\ViewModel\bin\Debug\SQLRepository.dll
+E:\Dot.Net\Interfaces\ViewModel\bin\Debug\Services.dll
+E:\Dot.Net\Interfaces\ViewModel\bin\Debug\PersonRepository.pdb
+E:\Dot.Net\Interfaces\ViewModel\bin\Debug\RepositoryFactory.pdb
+E:\Dot.Net\Interfaces\ViewModel\bin\Debug\PersonRepository.Service.pdb
+E:\Dot.Net\Interfaces\ViewModel\bin\Debug\CSVRepository.pdb
+E:\Dot.Net\Interfaces\ViewModel\bin\Debug\SQLRepository.pdb
+E:\Dot.Net\Interfaces\ViewModel\bin\Debug\Services.pdb
+E:\Dot.Net\Interfaces\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+E:\Dot.Net\Interfaces\ViewModel\obj\Debug\ViewModel.dll
+E:\Dot.Net\Interfaces\ViewModel\obj\Debug\ViewModel.pdb

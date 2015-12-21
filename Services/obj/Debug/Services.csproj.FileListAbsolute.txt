@@ -5,3 +5,10 @@ C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\Services
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\Services\obj\Debug\Services.dll
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\Services\obj\Debug\Services.pdb
+E:\Dot.Net\Interfaces\Services\bin\Debug\Services.dll
+E:\Dot.Net\Interfaces\Services\bin\Debug\Services.pdb
+E:\Dot.Net\Interfaces\Services\bin\Debug\PersonRepository.dll
+E:\Dot.Net\Interfaces\Services\bin\Debug\PersonRepository.pdb
+E:\Dot.Net\Interfaces\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+E:\Dot.Net\Interfaces\Services\obj\Debug\Services.dll
+E:\Dot.Net\Interfaces\Services\obj\Debug\Services.pdb

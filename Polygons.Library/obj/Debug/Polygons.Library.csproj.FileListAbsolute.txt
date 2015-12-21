@@ -2,3 +2,8 @@ C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\Polygons
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\Polygons.Library\bin\Debug\Polygons.Library.pdb
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\Polygons.Library\obj\Debug\Polygons.Library.dll
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\Polygons.Library\obj\Debug\Polygons.Library.pdb
+E:\Dot.Net\Interfaces\Polygons.Library\bin\Debug\Polygons.Library.dll
+E:\Dot.Net\Interfaces\Polygons.Library\bin\Debug\Polygons.Library.pdb
+E:\Dot.Net\Interfaces\Polygons.Library\obj\Debug\Polygons.Library.csprojResolveAssemblyReference.cache
+E:\Dot.Net\Interfaces\Polygons.Library\obj\Debug\Polygons.Library.dll
+E:\Dot.Net\Interfaces\Polygons.Library\obj\Debug\Polygons.Library.pdb

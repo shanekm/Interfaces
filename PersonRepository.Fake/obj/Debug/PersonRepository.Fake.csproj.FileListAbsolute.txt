@@ -5,3 +5,10 @@ C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\PersonRe
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.csprojResolveAssemblyReference.cache
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.dll
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.pdb
+E:\Dot.Net\Interfaces\PersonRepository.Fake\bin\Debug\PersonRepository.Fake.dll
+E:\Dot.Net\Interfaces\PersonRepository.Fake\bin\Debug\PersonRepository.Fake.pdb
+E:\Dot.Net\Interfaces\PersonRepository.Fake\bin\Debug\PersonRepository.dll
+E:\Dot.Net\Interfaces\PersonRepository.Fake\bin\Debug\PersonRepository.pdb
+E:\Dot.Net\Interfaces\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.csprojResolveAssemblyReference.cache
+E:\Dot.Net\Interfaces\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.dll
+E:\Dot.Net\Interfaces\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.pdb

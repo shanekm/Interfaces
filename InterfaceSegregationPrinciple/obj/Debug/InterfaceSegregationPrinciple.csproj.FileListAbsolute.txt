@@ -1,0 +1,12 @@
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe.config
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.pdb
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.exe
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.pdb
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.csprojResolveAssemblyReference.cache
+E:\Dot.Net\Interfaces\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe.config
+E:\Dot.Net\Interfaces\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe
+E:\Dot.Net\Interfaces\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.pdb
+E:\Dot.Net\Interfaces\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.csprojResolveAssemblyReference.cache
+E:\Dot.Net\Interfaces\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.exe
+E:\Dot.Net\Interfaces\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.pdb

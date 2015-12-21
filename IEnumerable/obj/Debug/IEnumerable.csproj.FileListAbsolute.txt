@@ -1,0 +1,10 @@
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\IEnumerable\bin\Debug\IEnumerable.exe.config
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\IEnumerable\bin\Debug\IEnumerable.exe
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\IEnumerable\bin\Debug\IEnumerable.pdb
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\IEnumerable\obj\Debug\IEnumerable.exe
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\IEnumerable\obj\Debug\IEnumerable.pdb
+E:\Dot.Net\Interfaces\IEnumerable\bin\Debug\IEnumerable.exe.config
+E:\Dot.Net\Interfaces\IEnumerable\bin\Debug\IEnumerable.exe
+E:\Dot.Net\Interfaces\IEnumerable\bin\Debug\IEnumerable.pdb
+E:\Dot.Net\Interfaces\IEnumerable\obj\Debug\IEnumerable.exe
+E:\Dot.Net\Interfaces\IEnumerable\obj\Debug\IEnumerable.pdb

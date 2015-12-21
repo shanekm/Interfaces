@@ -3,3 +3,9 @@ C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\Explicit
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\ExplicitCasting\bin\Debug\ExplicitCasting.pdb
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\ExplicitCasting\obj\Debug\ExplicitCasting.exe
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\ExplicitCasting\obj\Debug\ExplicitCasting.pdb
+E:\Dot.Net\Interfaces\ExplicitCasting\bin\Debug\ExplicitCasting.exe.config
+E:\Dot.Net\Interfaces\ExplicitCasting\bin\Debug\ExplicitCasting.exe
+E:\Dot.Net\Interfaces\ExplicitCasting\bin\Debug\ExplicitCasting.pdb
+E:\Dot.Net\Interfaces\ExplicitCasting\obj\Debug\ExplicitCasting.csprojResolveAssemblyReference.cache
+E:\Dot.Net\Interfaces\ExplicitCasting\obj\Debug\ExplicitCasting.exe
+E:\Dot.Net\Interfaces\ExplicitCasting\obj\Debug\ExplicitCasting.pdb

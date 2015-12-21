@@ -1,0 +1,5 @@
+E:\Dot.Net\Interfaces\SegmentingGenericCollections\bin\Debug\SegmentingGenericCollections.exe.config
+E:\Dot.Net\Interfaces\SegmentingGenericCollections\bin\Debug\SegmentingGenericCollections.exe
+E:\Dot.Net\Interfaces\SegmentingGenericCollections\bin\Debug\SegmentingGenericCollections.pdb
+E:\Dot.Net\Interfaces\SegmentingGenericCollections\obj\Debug\SegmentingGenericCollections.exe
+E:\Dot.Net\Interfaces\SegmentingGenericCollections\obj\Debug\SegmentingGenericCollections.pdb

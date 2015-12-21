@@ -2,3 +2,7 @@ C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\PersonRe
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\PersonRepository\bin\Debug\PersonRepository.pdb
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\PersonRepository\obj\Debug\PersonRepository.dll
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\PersonRepository\obj\Debug\PersonRepository.pdb
+E:\Dot.Net\Interfaces\PersonRepository\bin\Debug\PersonRepository.dll
+E:\Dot.Net\Interfaces\PersonRepository\bin\Debug\PersonRepository.pdb
+E:\Dot.Net\Interfaces\PersonRepository\obj\Debug\PersonRepository.dll
+E:\Dot.Net\Interfaces\PersonRepository\obj\Debug\PersonRepository.pdb

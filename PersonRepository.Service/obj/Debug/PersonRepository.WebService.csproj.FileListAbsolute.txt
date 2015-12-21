@@ -7,3 +7,12 @@ C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\PersonRe
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\PersonRepository.Service\obj\Debug\PersonRepository.WebService.csprojResolveAssemblyReference.cache
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\PersonRepository.Service\obj\Debug\PersonRepository.Service.dll
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\PersonRepository.Service\obj\Debug\PersonRepository.Service.pdb
+E:\Dot.Net\Interfaces\PersonRepository.Service\bin\Debug\PersonRepository.Service.dll
+E:\Dot.Net\Interfaces\PersonRepository.Service\bin\Debug\PersonRepository.Service.pdb
+E:\Dot.Net\Interfaces\PersonRepository.Service\bin\Debug\PersonRepository.dll
+E:\Dot.Net\Interfaces\PersonRepository.Service\bin\Debug\Services.dll
+E:\Dot.Net\Interfaces\PersonRepository.Service\bin\Debug\PersonRepository.pdb
+E:\Dot.Net\Interfaces\PersonRepository.Service\bin\Debug\Services.pdb
+E:\Dot.Net\Interfaces\PersonRepository.Service\obj\Debug\PersonRepository.WebService.csprojResolveAssemblyReference.cache
+E:\Dot.Net\Interfaces\PersonRepository.Service\obj\Debug\PersonRepository.Service.dll
+E:\Dot.Net\Interfaces\PersonRepository.Service\obj\Debug\PersonRepository.Service.pdb

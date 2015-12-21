@@ -5,3 +5,10 @@ C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\CSVRepos
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\CSVRepository\obj\Debug\CSVRepository.dll
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\CSVRepository\obj\Debug\CSVRepository.pdb
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\CSVRepository\obj\Debug\PersonRepository.CSV.csprojResolveAssemblyReference.cache
+E:\Dot.Net\Interfaces\CSVRepository\bin\Debug\CSVRepository.dll
+E:\Dot.Net\Interfaces\CSVRepository\bin\Debug\CSVRepository.pdb
+E:\Dot.Net\Interfaces\CSVRepository\bin\Debug\PersonRepository.dll
+E:\Dot.Net\Interfaces\CSVRepository\bin\Debug\PersonRepository.pdb
+E:\Dot.Net\Interfaces\CSVRepository\obj\Debug\PersonRepository.CSV.csprojResolveAssemblyReference.cache
+E:\Dot.Net\Interfaces\CSVRepository\obj\Debug\CSVRepository.dll
+E:\Dot.Net\Interfaces\CSVRepository\obj\Debug\CSVRepository.pdb

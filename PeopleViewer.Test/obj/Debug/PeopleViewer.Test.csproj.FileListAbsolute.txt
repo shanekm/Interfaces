@@ -12,3 +12,18 @@ C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\PeopleVi
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\PeopleViewer.Test\obj\Debug\PeopleViewer.Test.pdb
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\PeopleViewer.Test\bin\Debug\Moq.dll
 C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\Interfaces\PeopleViewer.Test\bin\Debug\Moq.xml
+E:\Dot.Net\Interfaces\PeopleViewer.Test\bin\Debug\PeopleViewer.Test.dll.config
+E:\Dot.Net\Interfaces\PeopleViewer.Test\bin\Debug\PeopleViewer.Test.dll
+E:\Dot.Net\Interfaces\PeopleViewer.Test\bin\Debug\PeopleViewer.Test.pdb
+E:\Dot.Net\Interfaces\PeopleViewer.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Dot.Net\Interfaces\PeopleViewer.Test\bin\Debug\Moq.dll
+E:\Dot.Net\Interfaces\PeopleViewer.Test\bin\Debug\PersonRepository.dll
+E:\Dot.Net\Interfaces\PeopleViewer.Test\bin\Debug\PersonRepository.Fake.dll
+E:\Dot.Net\Interfaces\PeopleViewer.Test\bin\Debug\ViewModel.dll
+E:\Dot.Net\Interfaces\PeopleViewer.Test\bin\Debug\PersonRepository.Fake.pdb
+E:\Dot.Net\Interfaces\PeopleViewer.Test\bin\Debug\PersonRepository.pdb
+E:\Dot.Net\Interfaces\PeopleViewer.Test\bin\Debug\ViewModel.pdb
+E:\Dot.Net\Interfaces\PeopleViewer.Test\bin\Debug\Moq.xml
+E:\Dot.Net\Interfaces\PeopleViewer.Test\obj\Debug\PeopleViewer.Test.csprojResolveAssemblyReference.cache
+E:\Dot.Net\Interfaces\PeopleViewer.Test\obj\Debug\PeopleViewer.Test.dll
+E:\Dot.Net\Interfaces\PeopleViewer.Test\obj\Debug\PeopleViewer.Test.pdb
